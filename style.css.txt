@@ -1,0 +1,23 @@
+body {
+  margin: 0; 
+  padding: 0;
+  border: 0; 
+  color: #000
+  font-family: Arial 
+}
+
+backgroud: #4969A6;
+color: #FFF; 
+}
+.container {
+ display: grid; 
+ grid-template: repeat (3, fr); 
+  gap: 2rem; 
+  margin: -3 rem iren iren 0 iren 
+} 
+.card { 
+  background: #fff; 
+  padding: 2rem; 
+  border-radius: -25rem; 
+  justify-content: space-between; 
+  box-shadow: 0px 5px 15px rgba (0,0,0,0.2)
